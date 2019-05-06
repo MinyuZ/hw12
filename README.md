@@ -11,9 +11,9 @@ A cuckoo bird pops out and chirps every 30 seconds.
 
 ## Component Parts
 
-Describe the components, or pieces, that make up your project.
+Input: second, minute, hour
+Output: sound, animation, breathing light
 
-Include what types of inputs/outputs/data it will use. You can also upload an image with a diagram showing how all those pieces are connected.
 
 ## When your project is completed, you will then add the following sections:
 
