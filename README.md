@@ -22,21 +22,26 @@ Include what types of inputs/outputs/data it will use. You can also upload an im
 What did you do in each of the past four weeks?
 
 - Week 0: Write Proposal
-- Week 1:
-- Week 2:
-- Week 3:
+- Week 1: Decide to do an anolog clock on P5 instead of an Arduino clock
+- Week 2: Find examples and references, get the clock working
+- Week 3: Add animation and sound
 - Week 4: Present!
 
 ## Challenges
 
-A brief discussion of what was hard, challenging, or unexpected about your project.
+Getting the dots go around the clock was hard. I had to draw 60 lines evenly arranged around the center and another circle that covers the center part. Another challenge is to place that cuckoo image and scale it. I tries several times before it worked, but the result is satisfying.
 
 ## Completed Work
 
-Upload photos and videos of your completed final project!
-
-Also upload the code that makes up your project to your repository.
+https://editor.p5js.org/minyu@cca.edu/sketches/-J8ZmrZ-l
 
 ## References and links
 
-Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
+Sound effect: http://retired.sounddogs.com/sound-effects/clocks-close-cuckoo-clock-307529
+
+Image of bird: https://www.freepik.com/free-vector/cuckoo-clock_798564.htm
+
+https://p5js.org/examples/transform-scale.html
+
+https://p5js.org/reference/#/p5/second
+
